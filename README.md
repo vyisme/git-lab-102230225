@@ -4,4 +4,5 @@
 - Họ tên: Phan Thị Nhân Vỹ
 - MSSV: 102230225
 - Lớp: 23T-DT1
-
+# Mục tiêu
+Tìm hiểu Git và GitHub
