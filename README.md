@@ -1,8 +1,6 @@
-# Git lab
-Đây là repository thực hành Git đầu tiên của tôi.
 ## Thông tin sinh viên
-- Họ tên: Phan Thị Nhân Vỹ
-- MSSV: 102230225
-- Lớp: 23T-DT1
-# Mục tiêu
-Tìm hiểu Git và GitHub
+- Họ tên: Nguyễn Văn A
+- MSSV: 2212345
+- Lớp: CNTT01
+- GitHub: username-cua-toi
+
